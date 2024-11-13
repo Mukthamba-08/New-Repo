@@ -1,4 +1,8 @@
 
 hello 
+<<<<<<< HEAD
 a 
 bcd
+=======
+world
+>>>>>>> 1eda8ff72657fd60c8ad7ca43a9c8ec3131d2611
